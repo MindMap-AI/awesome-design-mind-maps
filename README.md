@@ -1,4 +1,4 @@
-# Awesome Design Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Design Mind Maps](https://mindmapai.app/mind-maps/design) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Transform your creative process with project management and mind maps AI to plan, develop, and refine impactful design solutions. Mind maps AI helps designers organize ideas, streamline workflows, and align aesthetics with function for innovative, user-centric results.
 
